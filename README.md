@@ -3,7 +3,7 @@ The Data2_new_gnn_data can be download from this link: https://heibox.uni-heidel
 
 This is final project of Generative Neural Networks for the Sciences
 
-\section{Abstract}
+Abstract
 Traditionally, discovering high-performing photonic devices relies on computationally
 expensive physics simulations. Furthermore, the “inverse problem” of mapping a target
 optical spectrum back to a physical geometry is notoriously ill-posed; because multiple
